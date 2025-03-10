@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458352353474",
+    "project_id": "fizz-f828b",
+    "storage_bucket": "fizz-f828b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458352353474:android:41abf8548790e551909b5b",
+        "android_client_info": {
+          "package_name": "com.eltamiuz.fizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsm30lh8eY3fA3UoWwRqVmYokotoFL4uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
